@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Acredito que a programação é capaz de mudar vidas! Gosto de aprender, compartilhar conhecimento e amo empreendedorismo e inovação
+Acredito que a programação é capaz de mudar vidas! Gosto de aprender e compartilhar conhecimento. Amo também, empreendedorismo e inovação
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
