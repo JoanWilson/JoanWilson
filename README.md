@@ -31,7 +31,7 @@ object **JOAN WILSON** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanwilson&theme=dracula&hide_langs_below=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanwilson&theme=dracula&hide_langs_below=8" />
 </a>
 
 <a href="https://github.com/Gurupreet">
