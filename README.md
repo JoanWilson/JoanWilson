@@ -1,4 +1,4 @@
-### Oie devs 👋
+### Olá devs 👋
 
 Acredito que a programação é capaz de mudar vidas! Gosto de aprender e compartilhar conhecimento. Amo também, empreendedorismo e inovação
 
