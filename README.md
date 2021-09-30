@@ -9,7 +9,7 @@ Acredito que a programação é capaz de mudar vidas! Gosto de aprender e compar
 ```kotlin
 object **JOAN WILSON** {
  val name = "JOAN WILSON MARTINS DE OLIVEIRA"
- val acknowledgements = "Engenharia, desenvolvimento e ciência de dados"
+ val acknowledgements = "Desenvolvimento web e Ciência de dados"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("C", "Python", "JavaScript", "React") 
