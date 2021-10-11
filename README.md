@@ -25,7 +25,7 @@ object **JOAN WILSON** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/JoanWilson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanwilson&theme=dracula&hide_langs_below=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanwilson&theme=dracula&hide_langs_below=11" />
 </a>
 
 <a href="https://github.com/JoanWilson">
