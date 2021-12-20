@@ -41,7 +41,7 @@ object **JOAN WILSON** {
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
+🏡 [website][website] **|*
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
