@@ -9,7 +9,7 @@ Acredito que a programação é capaz de mudar vidas! Gosto de aprender e compar
 ```swift
 struct Joan {
  let name: String = "JOAN WILSON MARTINS DE OLIVEIRA"
- let acknowledgements: String = "Desenvolvimento web e Ciência de dados"
+ let acknowledgements: String = "Desenvolvimento iOS"
  
  let primarySkillset: String = "ALGUMAS HABILIDADES"
  var languages:[String] = ["C", "Python", "JavaScript", "Swift"] 
