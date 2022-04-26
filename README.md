@@ -6,13 +6,13 @@ Acredito que a programação é capaz de mudar vidas! Gosto de aprender e compar
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **JOAN WILSON** {
- val name = "JOAN WILSON MARTINS DE OLIVEIRA"
- val acknowledgements = "Desenvolvimento web e Ciência de dados"
+```swift
+struct Joan {
+ let name: String = "JOAN WILSON MARTINS DE OLIVEIRA"
+ let acknowledgements: String = "Desenvolvimento web e Ciência de dados"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("C", "Python", "JavaScript") 
+ let primarySkillset: String = "ALGUMAS HABILIDADES"
+ var languages:[String] = ["C", "Python", "JavaScript", "Swift"] 
 
 }
 ```
