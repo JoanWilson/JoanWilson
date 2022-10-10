@@ -25,7 +25,7 @@ struct Joan {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/JoanWilson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanwilson&theme=dracula&hide_langs_below=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanwilson&theme=dracula&hide_langs_below=26" />
 </a>
 
 <a href="https://github.com/JoanWilson">
